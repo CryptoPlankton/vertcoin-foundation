@@ -2,7 +2,7 @@
 
 > The source files for the Vertcoin Foundation's website, built with Hugo.
 
-Live at https://www.vertcoin.org/.
+Live at https://vertcoin.foundation/.
 
 
 ## Running locally

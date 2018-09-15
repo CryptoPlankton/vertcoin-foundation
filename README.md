@@ -1,16 +1,9 @@
-# Vertcoin's Website
+# Vertcoin Foundation Website
 
-> The source files for the Vertcoin website, built with Hugo.
+> The source files for the Vertcoin Foundation's website, built with Hugo.
 
-Live at https://www.vertcoin.org/.
+Live at https://vertcoin.foundation/.
 
-## Contributing
-
-What we want:
-* Translating
-* Bug Fixing
-* Webpage Speed
-* and much more
 
 ## Running locally
 

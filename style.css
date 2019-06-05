@@ -7,6 +7,11 @@ html {
     line-height: 1.6;
 }
 
+@media screen and (max-width: 767px) {
+    font-size: 13px;
+}
+
+
 body {
     display: grid;
     grid-row-gap: 4em;

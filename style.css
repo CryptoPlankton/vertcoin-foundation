@@ -3,7 +3,7 @@ html {
     text-align: center;
     font-family: 'montserrat';
     color: #A5A6A7;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 1.6;
 }
 
@@ -36,6 +36,6 @@ img {
 }
 
 p {
-    max-width: 771px;
+    max-width: 571px;
     margin: 0 auto;
 }

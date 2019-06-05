@@ -1,7 +1,0 @@
-baseURL = "https://vertcoin.foundation/"
-DefaultContentLanguage = "en"
-title = "Vertcoin Foundation"
-theme = "elate"
-
-
-#This file prints out code blocks
